@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paryavaran-Kavalu</string>
+    <string name="new_report">New Report</string>
+    <string name="map_view">Map View</string>
+    <string name="profile">Profile</string>
+    <string name="select_waste_type">Select Waste Type</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="eco_karma">Eco-Karma</string>
+    <string name="points">Points</string>
+    <string name="mark_cleaned">Mark as Cleaned (Test)</string>
+    <string name="location_permission_required">Location permission is required to report waste blackspots.</string>
+    <string name="camera_permission_required">Camera permission is required to take photos.</string>
+    <string name="storage_permission_required">Storage permission is required to save photos.</string>
+</resources>
